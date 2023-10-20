@@ -1,6 +1,6 @@
 # martian-io
 
-A top-down Modd.io sandbox game inspired by Outpost 2, Istanbul, Century, and Splendor about building settlements on Mars.
+A top-down Modd.io sandbox game inspired by Outpost 2, Stronghold, Istanbul, Century, and Splendor about building settlements on Mars.
 
 Solitary play:
 
@@ -8,5 +8,9 @@ Every day the server restarts, builders are sent to the next building site, with
 
 Parallel play:
 
-Once the HQ is built, the foreman chooses the next project. Players will take the necessary materials from the stockpile to the next building, next to each other. Once again, the best one will be rewarded.
+Once the HQ is built, the foreman chooses the next project. Players will take the necessary materials from the stockpile to the next building, next to each other. Once again, the best one will be rewarded. Exploration is still allowed to increase the stockpile and get points for rewards.
+
+Ambient coop:
+
+Further buildings are built the same way, early ones usually producing new material types. Rewards give bonus the everyone: rails to increase speed, generators for energy.
 
